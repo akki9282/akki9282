@@ -74,6 +74,16 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=akki9282&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akki9282&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+    <h2 align="center">📊<i> My Github Stats :</i></h2>
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=akki9282&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Akash Panari" height="250px" width="45%" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=akki9282&theme=dark&hide_border=false" alt="Github Stats" height="255px" width="45%"/>
+</div>
+  
+</br>  
+
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akki9282&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Akash Panari" height="275px" width="30%"/>
 
     
 </div>
