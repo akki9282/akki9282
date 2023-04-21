@@ -52,11 +52,11 @@
 
 <p align="left">
     <a href="https://www.linkedin.com/in/akash-panari-168b8619a" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="[https://www.linkedin.com/in/rupesh-patil-35903b212](https://www.linkedin.com/in/akash-panari-168b8619a)" />
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/akash-panari-168b8619a" />
     </a>
    
-    <a title="akashpanari55@gmail.com" href="mailto:akashpanari55@gmail.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="akashpanari55@gmail.com" />
+ <a title="akashpanari55@gmail.com" href="mailto:akashpanari55@gmail.com">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="akashpanari55@gmail.cm" />
     </a>
 </p>
 
