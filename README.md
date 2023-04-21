@@ -69,7 +69,7 @@
 <!----------------------------------- Star Section ------------------------------------>
 
 
-# 📊 GitHub Stats:
+
 <h2 align="center">📊<i> My Github Stats :</i></h2>
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=akki9282&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Akash Panari" height="250px" width="45%" />
